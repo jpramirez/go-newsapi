@@ -4,7 +4,7 @@
     "appname":"go-newsapi",
     "logfile":"newsapi.log",
     "apiurl":"https://newsapi.org/v2/",
-    "apikey":"-",
+    "apikey":"Create your own :) ",
     "databasename":"data/wanpan.db",
     "keyfile":"./extras/ssl/server.key",
     "crtfile":"./extras/ssl/server.crt"
